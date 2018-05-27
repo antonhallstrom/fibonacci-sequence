@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "documentation": "^7.1.0",
+    "jest": "^23.0.0"
+  }
+}
